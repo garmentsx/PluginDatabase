@@ -106,3 +106,9 @@
 [submodule "plugins/recent-chats"]
 	path = plugins/recent-chats
 	url = https://github.com/Alex979/Steam-Recent-Chats-plugin
+[submodule "plugins/Memorable-Screenshots~"]
+	path = plugins/Memorable-Screenshots~
+	url = https://github.com/garmentsx/Memorable-Screenshots
+[submodule "plugins/Memorable-Screenshots"]
+	path = plugins/Memorable-Screenshots
+	url = https://github.com/garmentsx/Memorable-Screenshots
